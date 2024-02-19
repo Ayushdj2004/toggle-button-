@@ -17,6 +17,7 @@ header{
     font-size: 40px;
     font-size: bold;
     color: aliceblue;
+    color: darkblue;
 }
 
 .hamburger{
@@ -47,6 +48,8 @@ header{
     color: #11101b;
     background-color: aliceblue;
 }
+
+
 
 @media (max-width: 900px) {
     .hamburger{
